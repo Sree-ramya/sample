@@ -1,1 +1,3 @@
-hii
+#!/bin/bash
+
+ech0 "Shell scripting"
