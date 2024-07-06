@@ -1,3 +1,3 @@
 #!/bin/bash
 
-ech0 "Shell scripting"
+echo "Shell scripting"
